@@ -7,12 +7,14 @@ This gem extends rubocop to catch require_relative.
 Add this line to your application's Gemfile:
 
 ```
-ruby gem 'rubocop_require_relative'
+gem 'rubocop_require_relative'
 ```
 
 And then execute:
 
-  $ bundle
+```
+$ bundle
+```
 
 ## Usage
 
