@@ -1,0 +1,3 @@
+dependencies:
+  pre:
+    - gem install bundler # to get the latest version of bundler
